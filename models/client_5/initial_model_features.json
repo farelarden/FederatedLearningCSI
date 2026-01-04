@@ -1,0 +1,24 @@
+{
+  "feature_names": [
+    "resp_std",
+    "resp_mean",
+    "act_distance",
+    "resp_avgTomorrowSleepRespirationValue",
+    "hr_mean",
+    "str_avgStressLevel",
+    "user_id",
+    "hrv_stress_ratio",
+    "optimal_stress_zone",
+    "hr_rmssd",
+    "hr_lastSevenDaysAvgRestingHeartRate",
+    "low_hrv_flag",
+    "hr_maxHeartRate",
+    "Unnamed_0",
+    "resp_rmssd",
+    "hr_std",
+    "recovery_activity_interaction"
+  ],
+  "client_id": 5,
+  "timestamp": "2026-01-04 14:26:00",
+  "num_features": 17
+}

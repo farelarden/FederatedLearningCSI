@@ -1,0 +1,24 @@
+{
+  "feature_names": [
+    "resp_avgTomorrowSleepRespirationValue",
+    "user_id",
+    "str_maxStressLevel",
+    "stress_std",
+    "stress_rmssd",
+    "hr_trend",
+    "stress_recovery_rate",
+    "hr_recovery_rate",
+    "recovery_activity_interaction",
+    "stress_trend",
+    "hrv_stress_ratio",
+    "calories_per_recovery",
+    "optimal_hr_zone",
+    "sleep_lowestRespirationValue",
+    "resp_avgSleepRespirationValue",
+    "sleep_awakeCount",
+    "resp_trend"
+  ],
+  "client_id": 2,
+  "timestamp": "2026-01-04 14:25:50",
+  "num_features": 17
+}

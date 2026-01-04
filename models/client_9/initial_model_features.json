@@ -1,0 +1,33 @@
+{
+  "feature_names": [
+    "act_totalCalories",
+    "str_avgStressLevel",
+    "stress_per_sleep",
+    "hrv_stress_interaction",
+    "hrv_stress_squared",
+    "optimal_stress_zone",
+    "stress_rmssd",
+    "calories_per_recovery",
+    "stress_std",
+    "stress_recovery_rate",
+    "stress_mean",
+    "sleep_sleepTimeSeconds",
+    "stress_trend",
+    "act_activeKilocalories",
+    "recovery_activity_interaction",
+    "resp_avgTomorrowSleepRespirationValue",
+    "sleep_lightSleepSeconds",
+    "sympathetic_tone",
+    "hr_rmssd",
+    "sleep_awakeCount",
+    "user_id",
+    "optimal_hr_zone",
+    "day",
+    "Unnamed_0",
+    "hr_mean",
+    "hr_recovery_rate"
+  ],
+  "client_id": 9,
+  "timestamp": "2026-01-04 14:26:01",
+  "num_features": 26
+}

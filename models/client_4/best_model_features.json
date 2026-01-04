@@ -1,0 +1,15 @@
+{
+  "feature_names": [
+    "calories_per_recovery",
+    "sleep_highestRespirationValue",
+    "sleep_sleepTimeSeconds",
+    "Unnamed_0",
+    "hr_lastSevenDaysAvgRestingHeartRate",
+    "sleep_lightSleepSeconds",
+    "stress_recovery_rate",
+    "hrv_stress_squared"
+  ],
+  "client_id": 4,
+  "timestamp": "2026-01-04 14:25:51",
+  "num_features": 8
+}

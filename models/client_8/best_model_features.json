@@ -1,0 +1,25 @@
+{
+  "feature_names": [
+    "act_totalCalories",
+    "act_activeKilocalories",
+    "act_distance",
+    "resp_avgWakingRespirationValue",
+    "user_id",
+    "low_hrv_flag",
+    "hr_std",
+    "sleep_remSleepSeconds",
+    "hr_minHeartRate",
+    "sleep_lowestRespirationValue",
+    "stress_recovery_rate",
+    "hr_restingHeartRate",
+    "stress_trend",
+    "resp_mean",
+    "resp_highestRespirationValue",
+    "stress_std",
+    "hr_maxHeartRate",
+    "hr_lastSevenDaysAvgRestingHeartRate"
+  ],
+  "client_id": 8,
+  "timestamp": "2026-01-04 14:25:52",
+  "num_features": 18
+}
