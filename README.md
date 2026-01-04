@@ -12,3 +12,12 @@ A federated learning implementation using Flower framework with LightGBM and Opt
 ### Prerequisites
 ```bash
 pip install flwr flwr[simulation] lightgbm optuna pandas scikit-learn
+```
+
+### To Run the Code
+```bash
+python simulate.py
+```
+```bash
+python predict.py
+```
